@@ -1,0 +1,10 @@
+{
+  "appId": "com.taungthar.yieldcalculator",
+  "appName": "တောင်သူ့အိမ် MM Crop Yield Calculator",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "ios": {
+    "contentInset": "automatic",
+    "backgroundColor": "#f3f7f2"
+  }
+}
